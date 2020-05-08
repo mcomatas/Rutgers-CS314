@@ -1,5 +1,6 @@
 open Proj2_types;;
 
+
 let getStartSymbol (g : grammar) : string =
   (* YOUR CODE GOES HERE *)
   match g with
